@@ -88,12 +88,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/spooky_kids_assets",
+	"image": "characters/jasminutrainertwoglitchy",
 	"position": [
 		0,
 		200
 	],
-	"healthicon": "spooky",
+	"healthicon": "jasminutrainertwoglitchy",
 	"flip_x": false,
 	"healthbar_colors": [
 		0,
