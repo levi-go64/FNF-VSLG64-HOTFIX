@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GREEG.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Greeg IDLE0000" x="1831" y="528" width="258" height="530" frameX="-25" frameY="-15" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0001" x="1831" y="528" width="258" height="530" frameX="-25" frameY="-15" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0002" x="1570" y="529" width="261" height="528" frameX="-35" frameY="-17" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0003" x="1570" y="529" width="261" height="528" frameX="-35" frameY="-17" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0004" x="265" y="1021" width="264" height="526" frameX="-35" frameY="-19" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0005" x="265" y="1021" width="264" height="526" frameX="-35" frameY="-19" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0006" x="1831" y="0" width="259" height="528" frameX="-27" frameY="-17" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0007" x="1831" y="0" width="259" height="528" frameX="-27" frameY="-17" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0008" x="1831" y="528" width="258" height="530" frameX="-25" frameY="-15" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg IDLE0009" x="1831" y="528" width="258" height="530" frameX="-25" frameY="-15" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg UP0000" x="0" y="1021" width="265" height="528" frameX="-7" frameY="-13" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg UP0001" x="0" y="1021" width="265" height="528" frameX="-7" frameY="-13" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg UP0002" x="1570" y="0" width="261" height="529" frameX="-17" frameY="-12" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg UP0003" x="1570" y="0" width="261" height="529" frameX="-17" frameY="-12" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg UP0004" x="0" y="1021" width="265" height="528" frameX="-7" frameY="-13" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg DOWN0000" x="681" y="0" width="327" height="515" frameX="-12" frameY="-31" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg DOWN0001" x="681" y="0" width="327" height="515" frameX="-12" frameY="-31" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg DOWN0002" x="0" y="510" width="336" height="511" frameX="-11" frameY="-35" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg DOWN0003" x="0" y="510" width="336" height="511" frameX="-11" frameY="-35" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg DOWN0004" x="681" y="0" width="327" height="515" frameX="-12" frameY="-31" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg LEFT0000" x="1289" y="0" width="281" height="530" frameX="-18" frameY="-14" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg LEFT0001" x="1289" y="0" width="281" height="530" frameX="-18" frameY="-14" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg LEFT0002" x="1008" y="0" width="281" height="530" frameX="-14" frameY="-14" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg LEFT0003" x="1008" y="0" width="281" height="530" frameX="-14" frameY="-14" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg LEFT0004" x="1289" y="0" width="281" height="530" frameX="-18" frameY="-14" frameWidth="319" frameHeight="544"/>
+	<SubTexture name="Greeg RIGHT0000" x="347" y="0" width="334" height="512" frameX="-7" frameY="-34" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg RIGHT0001" x="347" y="0" width="334" height="512" frameX="-7" frameY="-34" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg RIGHT0002" x="0" y="0" width="347" height="510" frameX="-5" frameY="-36" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg RIGHT0003" x="0" y="0" width="347" height="510" frameX="-5" frameY="-36" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="Greeg RIGHT0004" x="347" y="0" width="334" height="512" frameX="-7" frameY="-34" frameWidth="350" frameHeight="544"/>
+</TextureAtlas>

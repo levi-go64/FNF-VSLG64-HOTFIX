@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CAMILAELEGANTE.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Camila idle0000" x="2040" y="0" width="370" height="724" frameX="-2" frameY="-10" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0001" x="2040" y="0" width="370" height="724" frameX="-2" frameY="-10" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0002" x="0" y="690" width="391" height="716" frameX="-7" frameY="-18" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0003" x="0" y="690" width="391" height="716" frameX="-7" frameY="-18" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0004" x="1249" y="657" width="382" height="711" frameX="-8" frameY="-23" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0005" x="1249" y="657" width="382" height="711" frameX="-8" frameY="-23" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0006" x="1666" y="0" width="374" height="722" frameX="-3" frameY="-12" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0007" x="1666" y="0" width="374" height="722" frameX="-3" frameY="-12" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0008" x="2040" y="0" width="370" height="724" frameX="-2" frameY="-10" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0009" x="2040" y="0" width="370" height="724" frameX="-2" frameY="-10" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0010" x="2040" y="0" width="370" height="724" frameX="-2" frameY="-10" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="Camila idle0011" x="2040" y="0" width="370" height="724" frameX="-2" frameY="-10" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA LEFT0000" x="871" y="0" width="378" height="727" frameX="1" frameY="-9" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA LEFT0001" x="871" y="0" width="378" height="727" frameX="1" frameY="-9" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA LEFT0002" x="0" y="1406" width="371" height="721" frameX="-13" frameY="-15" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA LEFT0003" x="0" y="1406" width="371" height="721" frameX="-13" frameY="-15" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA LEFT0004" x="871" y="0" width="378" height="727" frameX="1" frameY="-9" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA LEFT0005" x="871" y="0" width="378" height="727" frameX="1" frameY="-9" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA LEFT0006" x="0" y="1406" width="371" height="721" frameX="-13" frameY="-15" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA DOWN0000" x="1249" y="0" width="417" height="657" frameX="-18" frameY="-74" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA DOWN0001" x="1249" y="0" width="417" height="657" frameX="-18" frameY="-74" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA DOWN0002" x="391" y="690" width="418" height="656" frameX="-13" frameY="-72" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA DOWN0003" x="391" y="690" width="418" height="656" frameX="-13" frameY="-72" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA DOWN0004" x="1249" y="0" width="417" height="657" frameX="-18" frameY="-74" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA DOWN0005" x="1249" y="0" width="417" height="657" frameX="-18" frameY="-74" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA DOWN0006" x="391" y="690" width="418" height="656" frameX="-13" frameY="-72" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA UP0000" x="2410" y="739" width="344" height="738" frameX="-13" frameY="1" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA UP0001" x="2410" y="739" width="344" height="738" frameX="-13" frameY="1" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA UP0002" x="2410" y="0" width="350" height="739" frameX="0" frameY="2" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA UP0003" x="2410" y="0" width="350" height="739" frameX="0" frameY="2" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA UP0004" x="2410" y="739" width="344" height="738" frameX="-13" frameY="1" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA UP0005" x="2410" y="739" width="344" height="738" frameX="-13" frameY="1" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA UP0006" x="2410" y="0" width="350" height="739" frameX="0" frameY="2" frameWidth="388" frameHeight="735"/>
+	<SubTexture name="CAMILA RIGHT0000" x="434" y="0" width="437" height="680" frameX="2" frameY="-55" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA RIGHT0001" x="434" y="0" width="437" height="680" frameX="2" frameY="-55" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA RIGHT0002" x="0" y="0" width="434" height="690" frameX="1" frameY="-44" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA RIGHT0003" x="0" y="0" width="434" height="690" frameX="1" frameY="-44" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA RIGHT0004" x="434" y="0" width="437" height="680" frameX="2" frameY="-55" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA RIGHT0005" x="434" y="0" width="437" height="680" frameX="2" frameY="-55" frameWidth="433" frameHeight="735"/>
+	<SubTexture name="CAMILA RIGHT0006" x="0" y="0" width="434" height="690" frameX="1" frameY="-44" frameWidth="433" frameHeight="735"/>
+</TextureAtlas>

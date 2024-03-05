@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iza-scared.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="IZA IDLE0000" x="0" y="590" width="369" height="595" frameX="-8" frameY="-47" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0001" x="0" y="590" width="369" height="595" frameX="-8" frameY="-47" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0002" x="1486" y="0" width="368" height="592" frameX="-4" frameY="-50" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0003" x="1486" y="0" width="368" height="592" frameX="-4" frameY="-50" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0004" x="1486" y="592" width="368" height="592" frameX="-2" frameY="-50" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0005" x="1486" y="592" width="368" height="592" frameX="-2" frameY="-50" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0006" x="369" y="590" width="368" height="595" frameX="-8" frameY="-47" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0007" x="369" y="590" width="368" height="595" frameX="-8" frameY="-47" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0008" x="0" y="590" width="369" height="595" frameX="-8" frameY="-47" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0009" x="0" y="590" width="369" height="595" frameX="-8" frameY="-47" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0010" x="0" y="590" width="369" height="595" frameX="-8" frameY="-47" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA IDLE0011" x="0" y="590" width="369" height="595" frameX="-8" frameY="-47" frameWidth="379" frameHeight="640"/>
+        <SubTexture name="IZA SING LEFT0000" x="367" y="1185" width="367" height="590" frameX="-12" frameY="-52" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING LEFT0001" x="367" y="1185" width="367" height="590" frameX="-12" frameY="-52" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING LEFT0002" x="1120" y="596" width="363" height="580" frameX="-10" frameY="-61" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING LEFT0003" x="1120" y="596" width="363" height="580" frameX="-10" frameY="-61" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING LEFT0004" x="367" y="1185" width="367" height="590" frameX="-12" frameY="-52" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING DOWN0000" x="0" y="1185" width="367" height="593" frameX="-3" frameY="-39" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING DOWN0001" x="0" y="1185" width="367" height="593" frameX="-3" frameY="-39" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING DOWN0002" x="734" y="1185" width="367" height="588" frameX="-5" frameY="-44" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING DOWN0003" x="734" y="1185" width="367" height="588" frameX="-5" frameY="-44" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING DOWN0004" x="0" y="1185" width="367" height="593" frameX="-3" frameY="-39" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING UP0000" x="755" y="0" width="365" height="599" frameX="0" frameY="-43" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING UP0001" x="755" y="0" width="365" height="599" frameX="0" frameY="-43" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING UP0002" x="1120" y="0" width="366" height="596" frameX="-3" frameY="-46" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING UP0003" x="1120" y="0" width="366" height="596" frameX="-3" frameY="-46" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING UP0004" x="755" y="0" width="365" height="599" frameX="0" frameY="-43" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING RIGHT0000" x="382" y="0" width="373" height="590" frameX="-5" frameY="-49" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING RIGHT0001" x="382" y="0" width="373" height="590" frameX="-5" frameY="-49" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING RIGHT0002" x="0" y="0" width="382" height="590" frameX="5" frameY="-49" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING RIGHT0003" x="0" y="0" width="382" height="590" frameX="5" frameY="-49" frameWidth="379" frameHeight="640"/>
+	<SubTexture name="IZA SING RIGHT0004" x="382" y="0" width="373" height="590" frameX="-5" frameY="-49" frameWidth="379" frameHeight="640"/>
+</TextureAtlas>

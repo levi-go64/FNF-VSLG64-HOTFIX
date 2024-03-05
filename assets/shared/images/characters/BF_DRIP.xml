@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF_DRIP.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="BF idle dance0000" x="0" y="751" width="238" height="377" frameX="10" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0001" x="0" y="751" width="238" height="377" frameX="10" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0002" x="753" y="0" width="240" height="377" frameX="16" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0003" x="753" y="0" width="240" height="377" frameX="16" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0004" x="993" y="0" width="239" height="376" frameX="15" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0005" x="993" y="0" width="239" height="376" frameX="15" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0006" x="238" y="751" width="237" height="377" frameX="10" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0007" x="238" y="751" width="237" height="377" frameX="10" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0008" x="0" y="751" width="238" height="377" frameX="10" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BF idle dance0009" x="0" y="751" width="238" height="377" frameX="10" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0000" x="0" y="0" width="255" height="377" frameX="-9" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0001" x="0" y="0" width="255" height="377" frameX="-9" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0002" x="255" y="0" width="255" height="377" frameX="-4" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0003" x="255" y="0" width="255" height="377" frameX="-4" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0004" x="0" y="0" width="255" height="377" frameX="-9" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0005" x="0" y="0" width="255" height="377" frameX="-9" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0006" x="255" y="0" width="255" height="377" frameX="-4" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0007" x="255" y="0" width="255" height="377" frameX="-4" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0008" x="0" y="0" width="255" height="377" frameX="-9" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP RIGHT NOTE0009" x="0" y="0" width="255" height="377" frameX="-9" frameY="-43" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0000" x="481" y="377" width="239" height="352" frameX="-22" frameY="-47" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0001" x="481" y="377" width="239" height="352" frameX="-22" frameY="-47" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0002" x="242" y="377" width="239" height="352" frameX="-17" frameY="-50" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0003" x="242" y="377" width="239" height="352" frameX="-17" frameY="-50" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0004" x="481" y="377" width="239" height="352" frameX="-22" frameY="-47" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0005" x="481" y="377" width="239" height="352" frameX="-22" frameY="-47" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0006" x="242" y="377" width="239" height="352" frameX="-17" frameY="-50" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0007" x="242" y="377" width="239" height="352" frameX="-17" frameY="-50" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0008" x="481" y="377" width="239" height="352" frameX="-22" frameY="-47" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP DOWN NOTE0009" x="481" y="377" width="239" height="352" frameX="-22" frameY="-47" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0000" x="510" y="0" width="243" height="374" frameX="-19" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0001" x="510" y="0" width="243" height="374" frameX="-19" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0002" x="0" y="377" width="242" height="374" frameX="-20" frameY="-45" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0003" x="0" y="377" width="242" height="374" frameX="-20" frameY="-45" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0004" x="510" y="0" width="243" height="374" frameX="-19" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0005" x="510" y="0" width="243" height="374" frameX="-19" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0006" x="0" y="377" width="242" height="374" frameX="-20" frameY="-45" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0007" x="0" y="377" width="242" height="374" frameX="-20" frameY="-45" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0008" x="510" y="0" width="243" height="374" frameX="-19" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP UP NOTE0009" x="510" y="0" width="243" height="374" frameX="-19" frameY="-44" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0000" x="993" y="376" width="239" height="370" frameX="-4" frameY="-52" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0001" x="993" y="376" width="239" height="370" frameX="-4" frameY="-52" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0002" x="753" y="377" width="239" height="368" frameX="2" frameY="-54" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0003" x="753" y="377" width="239" height="368" frameX="2" frameY="-54" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0004" x="993" y="376" width="239" height="370" frameX="-4" frameY="-52" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0005" x="993" y="376" width="239" height="370" frameX="-4" frameY="-52" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0006" x="753" y="377" width="239" height="368" frameX="2" frameY="-54" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0007" x="753" y="377" width="239" height="368" frameX="2" frameY="-54" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0008" x="993" y="376" width="239" height="370" frameX="-4" frameY="-52" frameWidth="263" frameHeight="420"/>
+	<SubTexture name="BFDRIP LEFT NOTE0009" x="993" y="376" width="239" height="370" frameX="-4" frameY="-52" frameWidth="263" frameHeight="420"/>
+</TextureAtlas>

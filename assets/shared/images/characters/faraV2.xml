@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="faraV2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="FARA IDLE0000" x="1638" y="523" width="322" height="523" frameX="-4" frameY="-23" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA IDLE0001" x="1638" y="523" width="322" height="523" frameX="-4" frameY="-23" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA IDLE0002" x="0" y="1037" width="325" height="520" frameX="-7" frameY="-26" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA IDLE0003" x="0" y="1037" width="325" height="520" frameX="-7" frameY="-26" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA IDLE0004" x="986" y="0" width="328" height="519" frameX="-5" frameY="-27" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA IDLE0005" x="986" y="0" width="328" height="519" frameX="-5" frameY="-27" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA IDLE0006" x="1638" y="0" width="323" height="523" frameX="-4" frameY="-23" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA IDLE0007" x="1638" y="0" width="323" height="523" frameX="-4" frameY="-23" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA LEFT0000" x="1961" y="0" width="318" height="528" frameX="-4" frameY="-18" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA LEFT0001" x="1961" y="0" width="318" height="528" frameX="-4" frameY="-18" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA LEFT0002" x="336" y="0" width="322" height="530" frameX="-5" frameY="-16" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA LEFT0003" x="336" y="0" width="322" height="530" frameX="-5" frameY="-16" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA LEFT0004" x="1961" y="0" width="318" height="528" frameX="-4" frameY="-18" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA DOWN0000" x="0" y="518" width="334" height="519" frameX="-9" frameY="-27" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA DOWN0001" x="0" y="518" width="334" height="519" frameX="-9" frameY="-27" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA DOWN0002" x="0" y="0" width="336" height="518" frameX="-12" frameY="-28" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA DOWN0003" x="0" y="0" width="336" height="518" frameX="-12" frameY="-28" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA DOWN0004" x="0" y="518" width="334" height="519" frameX="-9" frameY="-27" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA UP0000" x="1961" y="528" width="304" height="529" frameX="-6" frameY="-17" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA UP0001" x="1961" y="528" width="304" height="529" frameX="-6" frameY="-17" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA UP0002" x="0" y="1557" width="299" height="528" frameX="-5" frameY="-18" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA UP0003" x="0" y="1557" width="299" height="528" frameX="-5" frameY="-18" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA UP0004" x="1961" y="528" width="304" height="529" frameX="-6" frameY="-17" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA RIGHT0000" x="658" y="0" width="328" height="520" frameX="-19" frameY="-26" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA RIGHT0001" x="658" y="0" width="328" height="520" frameX="-19" frameY="-26" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA RIGHT0002" x="1314" y="0" width="324" height="523" frameX="-17" frameY="-23" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA RIGHT0003" x="1314" y="0" width="324" height="523" frameX="-17" frameY="-23" frameWidth="350" frameHeight="544"/>
+	<SubTexture name="FARA RIGHT0004" x="658" y="0" width="328" height="520" frameX="-19" frameY="-26" frameWidth="350" frameHeight="544"/>
+</TextureAtlas>

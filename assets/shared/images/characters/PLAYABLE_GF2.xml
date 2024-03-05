@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PLAYABLE_GF2.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="GF2 IDLE DANCE0000" x="1663" y="0" width="306" height="528" frameX="-28" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0001" x="1663" y="0" width="306" height="528" frameX="-28" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0002" x="309" y="1025" width="309" height="528" frameX="-21" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0003" x="309" y="1025" width="309" height="528" frameX="-21" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0004" x="1349" y="0" width="314" height="528" frameX="-19" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0005" x="1349" y="0" width="314" height="528" frameX="-19" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0006" x="0" y="1025" width="309" height="528" frameX="-26" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0007" x="0" y="1025" width="309" height="528" frameX="-26" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0008" x="1663" y="0" width="306" height="528" frameX="-28" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 IDLE DANCE0009" x="1663" y="0" width="306" height="528" frameX="-28" frameY="-3" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0000" x="708" y="0" width="321" height="531" frameX="-12" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0001" x="708" y="0" width="321" height="531" frameX="-12" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0002" x="708" y="0" width="321" height="531" frameX="-12" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0003" x="708" y="0" width="321" height="531" frameX="-12" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0004" x="708" y="0" width="321" height="531" frameX="-12" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0005" x="1029" y="0" width="320" height="531" frameX="-14" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0006" x="1029" y="0" width="320" height="531" frameX="-14" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0007" x="1029" y="0" width="320" height="531" frameX="-14" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0008" x="1029" y="0" width="320" height="531" frameX="-14" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING RIGHT0009" x="1029" y="0" width="320" height="531" frameX="-14" frameY="0" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0000" x="618" y="1025" width="343" height="474" frameX="2" frameY="-43" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0001" x="618" y="1025" width="343" height="474" frameX="2" frameY="-43" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0002" x="618" y="1025" width="343" height="474" frameX="2" frameY="-43" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0003" x="618" y="1025" width="343" height="474" frameX="2" frameY="-43" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0004" x="618" y="1025" width="343" height="474" frameX="2" frameY="-43" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0005" x="1969" y="0" width="340" height="475" frameX="-1" frameY="-42" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0006" x="1969" y="0" width="340" height="475" frameX="-1" frameY="-42" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0007" x="1969" y="0" width="340" height="475" frameX="-1" frameY="-42" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0008" x="1969" y="0" width="340" height="475" frameX="-1" frameY="-42" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING DOWN0009" x="1969" y="0" width="340" height="475" frameX="-1" frameY="-42" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0000" x="0" y="501" width="332" height="524" frameX="-2" frameY="-4" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0001" x="0" y="501" width="332" height="524" frameX="-2" frameY="-4" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0002" x="0" y="501" width="332" height="524" frameX="-2" frameY="-4" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0003" x="0" y="501" width="332" height="524" frameX="-2" frameY="-4" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0004" x="0" y="501" width="332" height="524" frameX="-2" frameY="-4" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0005" x="332" y="501" width="331" height="523" frameX="-7" frameY="-5" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0006" x="332" y="501" width="331" height="523" frameX="-7" frameY="-5" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0007" x="332" y="501" width="331" height="523" frameX="-7" frameY="-5" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0008" x="332" y="501" width="331" height="523" frameX="-7" frameY="-5" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING UP0009" x="332" y="501" width="331" height="523" frameX="-7" frameY="-5" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0000" x="354" y="0" width="354" height="499" frameX="2" frameY="-26" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0001" x="354" y="0" width="354" height="499" frameX="2" frameY="-26" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0002" x="354" y="0" width="354" height="499" frameX="2" frameY="-26" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0003" x="354" y="0" width="354" height="499" frameX="2" frameY="-26" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0004" x="354" y="0" width="354" height="499" frameX="2" frameY="-26" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0005" x="0" y="0" width="354" height="501" frameX="2" frameY="-24" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0006" x="0" y="0" width="354" height="501" frameX="2" frameY="-24" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0007" x="0" y="0" width="354" height="501" frameX="2" frameY="-24" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0008" x="0" y="0" width="354" height="501" frameX="2" frameY="-24" frameWidth="350" frameHeight="530"/>
+	<SubTexture name="GF2 SING LEFT0009" x="0" y="0" width="354" height="501" frameX="2" frameY="-24" frameWidth="350" frameHeight="530"/>
+</TextureAtlas>
