@@ -2,62 +2,62 @@
 	"animations": [
 		{
 			"offsets": [
-				-156,
+				-151,
 				-300
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "iza idle0"
+			"loop": false,
+			"name": "IZA IDLE0"
 		},
 		{
 			"offsets": [
 				-152,
-				-300
+				-310
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
-			"name": "iza up0"
-		},
-		{
-			"offsets": [
-				-140,
-				-300
-			],
-			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "iza down0"
-		},
-		{
-			"offsets": [
-				-111,
-				-300
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "iza left0"
+			"name": "IZA SING DOWN0"
 		},
 		{
 			"offsets": [
-				-157,
+				-147,
 				-301
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
+			"loop": false,
+			"name": "IZA SING LEFT0"
+		},
+		{
+			"offsets": [
+				-154,
+				-300
+			],
 			"indices": [],
-			"name": "iza right0"
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "IZA SING UP0"
+		},
+		{
+			"offsets": [
+				-189,
+				-300
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "IZA SING RIGHT0"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/iza",
+	"image": "characters/iza-scared",
 	"position": [
 		-130,
 		-170
@@ -70,8 +70,8 @@
 		0
 	],
 	"camera_position": [
-		110,
-		460
+		-210,
+		470
 	],
 	"sing_duration": 7,
 	"scale": 0.8

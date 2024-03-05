@@ -60,10 +60,10 @@
 				-9,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
-			"loop": false,
+			"indices": [],
 			"name": "BF RIGHT MISS0"
 		},
 		{
@@ -71,10 +71,10 @@
 				-15,
 				-2
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
-			"loop": false,
+			"indices": [],
 			"name": "BF DOWN MISS0"
 		},
 		{
@@ -82,10 +82,10 @@
 				-34,
 				-2
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
-			"loop": false,
+			"indices": [],
 			"name": "BF UP MISS0"
 		},
 		{
@@ -93,21 +93,21 @@
 				-1,
 				-7
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "BF LEFT MISS0" 
+			"indices": [],
+			"name": "BF LEFT MISS0"
 		},
 		{
 			"offsets": [
-				-98,
+				32,
 				-13
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT-alt",
-			"loop": false,
+			"indices": [],
 			"name": "BFRIGHTSING0"
 		},
 		{
@@ -115,10 +115,10 @@
 				-11,
 				1
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN-alt",
-			"loop": false,
+			"indices": [],
 			"name": "BFDOWNSING0"
 		},
 		{
@@ -126,21 +126,21 @@
 				-3,
 				71
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singUP-alt",
-			"loop": false,
+			"indices": [],
 			"name": "BFUPSING0"
 		},
 		{
 			"offsets": [
-				105,
+				-45,
 				-7
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"loop": false,
+			"indices": [],
 			"name": "BFLEFTSING0"
 		},
 		{
@@ -148,13 +148,14 @@
 				-10,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle-alt",
-			"loop": false,
+			"indices": [],
 			"name": "BFIDLEDANCE0"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/bfgachalifetwo",
 	"position": [
@@ -169,9 +170,10 @@
 		209
 	],
 	"camera_position": [
-		100,
-		-40
+		60,
+		-60
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 1,
+	"_editor_isPlayer": true
 }

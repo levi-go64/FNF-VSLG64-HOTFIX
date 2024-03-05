@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-49,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RAIDEN LEFT0"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-170
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RAIDEN DOWN0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-170
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RAIDEN UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-81,
+				-167
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RAIDEN RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-58,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RAIDEN IDLE0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/RAIDENV2",
+	"position": [
+		70,
+		40
+	],
+	"healthicon": "raiden",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		225,
+		170
+	],
+	"camera_position": [
+		10,
+		120
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

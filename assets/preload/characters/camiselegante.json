@@ -2,77 +2,77 @@
 	"animations": [
 		{
 			"offsets": [
-				50,
-				290
+				4,
+				-4
 			],
 			"loop": false,
-			"fps": 24,
-			"anim": "idle",
-			"indices": [],
-			"name": "SERIAL IDLE0"
-		},
-		{
-			"offsets": [
-				62,
-				289
-			],
-			"loop": false,
-			"fps": 24,
+			"fps": 15,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "SERIAL LEFT0"
+			"name": "CAMILA LEFT0"
 		},
 		{
 			"offsets": [
-				41,
-				283
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SERIAL RIGHT0"
-		},
-		{
-			"offsets": [
-				54,
-				287
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "SERIAL UP0"
-		},
-		{
-			"offsets": [
-				110,
-				289
+				7,
+				-5
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SERIAL DOWN0"
+			"name": "CAMILA DOWN0"
+		},
+		{
+			"offsets": [
+				89,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CAMILA UP0"
+		},
+		{
+			"offsets": [
+				10,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CAMILA RIGHT0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 25,
+			"anim": "idle",
+			"loop": false,
+			"name": "Camila idle0"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/serialkiller",
+	"image": "characters/CAMILAELEGANTE",
 	"position": [
-		0,
-		380
-	],
-	"healthicon": "serialkiller",
-	"flip_x": false,
-	"healthbar_colors": [
-		255,
 		0,
 		0
 	],
-	"camera_position": [
-		10,
-		-70
+	"healthicon": "camispanish",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		203,
+		183
 	],
-	"sing_duration": 4,
-	"scale": 0.8
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
 }
